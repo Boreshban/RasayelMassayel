@@ -3,3 +3,6 @@
  The proposed corpus can be applied to learn components of the question answering system, including question classification, information retrieval, and answer extraction. This corpus is freely available for academic purposes as well. 
 
 # How to cite RasayelMassayel:
+please use the following information to cite our paper:
+
+
