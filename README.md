@@ -5,11 +5,3 @@
 # How to cite RasayelMassayel:
 please use the following information to cite our paper:
 
-@software{Druskat_My_Research_Software_2021,
-author = {Druskat, Stephan},
-doi = {10.5281/zenodo.1234},
-month = {8},
-title = {{My Research Software}},
-version = {2.0.4},
-year = {2021}
-}
