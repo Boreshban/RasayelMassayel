@@ -5,3 +5,16 @@
 # How to cite RasayelMassayel:
 please use the following information to cite our paper:
 
+```
+@article{boreshban2018providing,
+  title={Providing a religious corpus of question answering system in persian},
+  author={Boreshban, Yasaman and Yousefinasab, Hamed and Mirroshandel, Seyed Abolghasem},
+  journal={Signal and Data Processing},
+  volume={15},
+  number={1},
+  pages={87--102},
+  year={2018},
+  publisher={Signal and Data Processing}
+}
+
+```
