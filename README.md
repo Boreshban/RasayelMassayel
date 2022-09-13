@@ -6,7 +6,7 @@
 please use the following information to cite our paper:
 
 
-```
+``` ruby
 
 @article{boreshban2018providing,
   title={Providing a religious corpus of question answering system in persian},
